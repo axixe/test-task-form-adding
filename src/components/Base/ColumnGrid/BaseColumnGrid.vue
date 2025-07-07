@@ -8,7 +8,7 @@
 </template>
 
 <script setup lang="ts">
-import { GridColumnTypes } from '@/global/enums/GridColumnTypes.js';
+import { GridColumnTypes } from '@/global/enums/GridColumnTypes';
 
 interface Props {
   columnsGrid?: GridColumnTypes
