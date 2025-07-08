@@ -1,5 +1,5 @@
 <template>
-  <button>
+  <button type="button">
     <svg class="icon25">
       <use :href="'/public/images/svg/icon-trash.svg#icon'"></use>
     </svg>

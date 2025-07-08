@@ -35,5 +35,9 @@ withDefaults(defineProps<Props>(), {
   &--three_columns   {
     grid-template-columns: 1fr 1fr 1fr;
   }
+
+  &--four_columns {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
 }
 </style>
